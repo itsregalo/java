@@ -11,3 +11,9 @@ public class constructor1 {
         System.out.println(myObj.x);
     }
 }
+
+//properties of a constructor
+"""
+* 
+
+""";
