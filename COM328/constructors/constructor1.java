@@ -1,3 +1,4 @@
+
 public class constructor1 {
     int x;
     // Create a class constructor
